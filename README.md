@@ -15,11 +15,11 @@ O objetivo deste desafio é criar uma aplicação web que permita aos usuários 
   
 - **Botões de Operação:** Botões dedicados para realizar as operações de codificação e decodificação.
 
-- **Exibição do Resultado:** Uma área onde o resultado da operação é mostrado, seja o texto codificado ou decodificado, permitindo ao usuário copiar o resultado.
+- **Exibição do Resultado:** Uma área onde o resultado da operação é mostrado, seja o texto codificado ou decodificado permitindo ao usuário copiar o resultado.
 
 
 ## Autor
 
-Este desafio foi realizado por Marcia Barcelo. Para mais informações, acesse [Página publicada](https://mpbarcelo.github.io/codificador-descodificador-alura-challengue/).
+Este desafio foi realizado por Marcia Barcelo. Para mais informações, acesse a [Página publicada](https://mpbarcelo.github.io/codificador-descodificador-alura-challengue/).
 
 **Realize sua descodificação!** 🚀
